@@ -11,6 +11,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 <br>
+<br>
 <div>
   <a href="https://www.linkedin.com/in/luiza-souza-teixeira-4624b4312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-X23007785?style-for-the-badge logo-linkedin&logoColor-white" target="_blank"></a>
 </div>
