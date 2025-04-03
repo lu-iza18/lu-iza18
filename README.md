@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 <br>
 <br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <div>
   <a href="https://www.linkedin.com/in/luiza-souza-teixeira-4624b4312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-X23007785?style-for-the-badge logo-linkedin&logoColor-white" target="_blank"></a>
 </div>
