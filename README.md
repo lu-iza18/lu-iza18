@@ -20,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="50" alt="Git">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="50" alt="GitHub">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="50" alt="ReactJs">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="50" alt="Typescript">
 </div>
 
 ---
@@ -27,7 +28,7 @@
 ### 📚 O que estou estudando no momento:
 - 📱 Desenvolvimento mobile com **Flutter, Kotlin e Swift**
 - 🎨 Front-end com **HTML, CSS e JavaScript**
-- 🖥️ Back-end com **Python e C#**
+- 🖥️ Back-end com **Python e Typescript**
 - ☁️ Integrações com APIs e sistemas IoT (Home Assistant)
 
 ---
